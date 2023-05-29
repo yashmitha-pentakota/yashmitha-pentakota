@@ -1,3 +1,5 @@
+![Profile Visits](https://komarev.com/ghpvc/?username=your-yashmitha-pentakota)
+
 [![ProfileBanner](https://github.com/yashmitha-pentakota/Yashmitha/blob/main/Yashu.png?raw=true)](https://github.com/yashmitha-pentakota)
 
 # About me 💫:
@@ -15,7 +17,6 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love to code with coffee ☕
 - 🎢 Profile Visitors Count:  
-![Profile Visits](https://komarev.com/ghpvc/?username=your-yashmitha-pentakota)
 
 ## Languages and Tools 🛠:
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -51,12 +52,18 @@
   <img align="left" alt="Linkdein" width="25px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
 </a>
 
-### Github Activity ✔:
+---
+
+## Github Activity 💻 :
 
 <a href="https://github.com/yashmitha-pentakota">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashmitha-pentakota&theme=tokyonight" />
   </a>
 
-<a href="https://github.com/yashmitha-pentakota">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=yashmitha-pentakota&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
+<a href="https://github.com/Davekibh">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=yashmitha-pentakota&show_icons=true&theme=tokyonight&line_height=27" alt="My github stats"/>
 </a>
+
+<br/>
+<br/>
+<br/>
