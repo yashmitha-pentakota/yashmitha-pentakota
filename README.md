@@ -15,8 +15,8 @@
 - 🤔 I always welcome Open-Source-Contributors.
 - 💬 Ask me about Python and Data Science.
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love to code with coffee ☕
-- 🎢 Profile Visitors Count:  
+
+- ⚡ Fun fact: I love to code with coffee ☕  
 
 ## Languages and Tools 🛠:
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
