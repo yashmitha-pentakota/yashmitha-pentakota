@@ -53,16 +53,10 @@
 </a>
 
 ---
-
-## Github Activity 💻 :
-
-<a href="https://github.com/yashmitha-pentakota">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashmitha-pentakota&theme=tokyonight" />
-  </a>
-
-<a href="https://github.com/Davekibh">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=yashmitha-pentakota&show_icons=true&theme=tokyonight&line_height=27" alt="My github stats"/>
-</a>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=yashmitha-pentakota&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=yashmitha-pentakota&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashmitha-pentakota&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <br/>
 <br/>
